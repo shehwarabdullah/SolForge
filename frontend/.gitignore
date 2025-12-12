@@ -1,0 +1,8 @@
+# Dependency directories (VERY important to ignore)
+node_modules
+
+# Environment variables (CRUCIAL for security)
+.env
+
+# Build outputs
+dist
